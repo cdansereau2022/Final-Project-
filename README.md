@@ -1,6 +1,6 @@
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Start%20Page.png)
-# Final-Project-
-> Outline a brief description of your project.
+# Final Project
+> My final project .
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
