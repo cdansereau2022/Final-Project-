@@ -1,7 +1,7 @@
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Start%20Page.png)
 # Final Project
 > My final project is an interactive data visualisation showcasing world life expectancy across the past 200 years. It features a coded background produced using HTML and Sass. 
-> Link to final project [_here_](https://app.flow.gl/flow/9htu02r). 
+> Find link to final project [_here_](https://app.flow.gl/flow/9htu02r). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,6 +11,7 @@
 * [Setup and Usage](#setup-and-usage)
 * [Project Status](#project-status)
 * [Screenshots](#screenshots)
+* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -68,7 +69,7 @@ Other related concepts include:
 - Variables 
 - Values 
 - Data Types 
-- HTML 
+- HTML
 - Markup Language 
 - CSS
 
@@ -81,7 +82,6 @@ Other related concepts include:
 
 
 ## Features
-List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
@@ -179,4 +179,5 @@ Qualitative  Data Sourced From:
 
 - Wikipedia. (n.d.). _List of wars and anthropogenic disasters by death toll_. Wikipedia. https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll
 
-
+## Acknowledgements
+- This project was inspired by exis
