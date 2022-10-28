@@ -66,6 +66,7 @@ My project has engaged with the following key concepts:
 - CSS
 
 ## Technologies Used
+- Microsoft Excel 
 - [Tableau](https://www.tableau.com/) - Data visualisation software
 - [Flow Immersive](https://flowimmersive.com/) - Immersive data visualisation software
 - [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS - Mobile Augmented Reality (AR) viewer
