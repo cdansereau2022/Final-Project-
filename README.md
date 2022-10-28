@@ -38,17 +38,26 @@ List the ready features here:
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
 
 
-## Setup
+## Setup and Usage
+
+Data Visualisation 
+1. Create an account at [Flow Immersive](https://flowimmersive.com/) 
+2. Download datasets found [_here_](https://drive.google.com/drive/folders/1pxbeBI75I_uA3wXf12DL_trpRCTVRHA2?usp=sharing). 
+3. Replicate steps shown [_here_](https://app.flow.gl/flow/9htu02r).
+
+To present visualisation on desktop/screen: select _share_ in Flow project
+
+To present visualisation in AR/VR: 
+1. Download [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS
+2. Paste (https://app.flow.gl/flow/9htu02r) into WebXR Viewer browser
+3. Select 
+
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
 
-To run data visualisation 
-
-To run code 
 
 
 How does one go about using it?
