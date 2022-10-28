@@ -144,6 +144,9 @@ Screenshot of Final Visualisation Step #13
 Screenshot of Coded Animation from Code Pen
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
 
+Screenshot of Final Visualisation AR Presentation
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20AR%20Presentation.JPG)
+
 
 
 ## Sources 
@@ -171,4 +174,4 @@ Qualitative  Data Sourced From:
 - Wikipedia. (n.d.). _List of wars and anthropogenic disasters by death toll_. Wikipedia. https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll
 
 ## Acknowledgements
-- This project was inspired by exis
+- This project was inspired by the work of Flow Immersive
