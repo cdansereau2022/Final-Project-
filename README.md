@@ -90,7 +90,9 @@ To present visualisation on desktop/screen: select _share_ in Flow project and t
 To present visualisation in AR/VR: 
 1. Download [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS
 2. Paste (https://app.flow.gl/flow/9htu02r) into WebXR Viewer browser
-3. Select AR View button (circled in red) ![Alt Text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/AR%20View%20Button.png)
+3. Select AR View button (circled in red) 
+
+![Alt Text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/AR%20View%20Button.png)
 
 Coded Background 
 1. Create an account at [Code Pen](https://codepen.io/)
