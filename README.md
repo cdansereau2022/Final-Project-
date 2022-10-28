@@ -66,7 +66,8 @@ My project has engaged with the following key concepts:
 - CSS
 
 ## Technologies Used
-- [Flow Immersive](https://flowimmersive.com/) - Data visualisation software
+- [Tableau](https://www.tableau.com/) - Data visualisation software
+- [Flow Immersive](https://flowimmersive.com/) - Immersive data visualisation software
 - [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS - Mobile Augmented Reality (AR) viewer
 - [Code Pen](https://codepen.io/) - Open-source software
 - HTML - High-level markup language
