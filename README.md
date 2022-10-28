@@ -4,22 +4,13 @@
 > Find link to final project [_here_](https://app.flow.gl/flow/9htu02r). 
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Key Concepts](#key-concepts)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Setup and Usage](#setup-and-usage)
 * [Project Status](#project-status)
 * [Screenshots](#screenshots)
 * [Acknowledgements](#acknowledgements)
 
-
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Key Concepts 
 My project has engaged with the following key concepts:
