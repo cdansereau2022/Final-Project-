@@ -66,7 +66,7 @@ Other related concepts include:
 
 ## Technologies Used
 - [Flow Immersive](https://flowimmersive.com/) - Data visualisation software
-- [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS - Mobile AR viewer
+- [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS - Mobile Augmented Reality (AR) viewer
 - [Code Pen](https://codepen.io/) - Open-source software
 - HTML - High-level markup language
 - CSS (Sass) - High-level markup language
