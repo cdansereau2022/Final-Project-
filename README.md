@@ -56,7 +56,13 @@ To present visualisation in AR/VR:
 3. Select AR View button (circled in red) ![Alt Text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/AR%20View%20Button.png)
 
 Coded Background 
-1. 
+1. Create an account at [Code Pen](https://codepen.io/)
+2. Create a new [Pen](https://codepen.io/pen/)
+3. Input HTML 
+
+`#stars 
+#stars2
+#stars3`
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
