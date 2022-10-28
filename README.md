@@ -1,7 +1,7 @@
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Start%20Page.png)
 # Final Project
 > My final project is an interactive data visualisation showcasing world life expectancy across the past 200 years. It features a coded background produced using HTML and Sass. 
-> Find link to final project [_here_](https://app.flow.gl/flow/9htu02r). 
+> Link to my final project [_here_](https://app.flow.gl/flow/9htu02r). 
 
 ## Table of Contents
 * [Key Concepts](#key-concepts)
