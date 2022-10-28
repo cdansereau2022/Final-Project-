@@ -23,8 +23,11 @@
 
 
 ## Technologies Used
-- Flow Immersive - 
-- Code Pen - 
+- [Flow Immersive](https://flowimmersive.com/) 
+- [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS
+- [Code Pen](https://codepen.io/)
+- HTML 
+- CSS (Sass) 
 
 
 ## Features
@@ -50,8 +53,10 @@ To present visualisation on desktop/screen: select _share_ in Flow project
 To present visualisation in AR/VR: 
 1. Download [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS
 2. Paste (https://app.flow.gl/flow/9htu02r) into WebXR Viewer browser
-3. Select 
+3. Select AR View button (circled in red) ![Alt Text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/AR%20View%20Button.png)
 
+Coded Background 
+1. 
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
