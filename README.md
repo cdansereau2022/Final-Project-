@@ -94,7 +94,7 @@ Data Visualisation
 2. Download datasets found [_here_](https://drive.google.com/drive/folders/1pxbeBI75I_uA3wXf12DL_trpRCTVRHA2?usp=sharing). 
 3. Replicate steps shown [_here_](https://app.flow.gl/flow/9htu02r).
 
-To present visualisation on desktop/screen: select _share_ in Flow project
+To present visualisation on desktop/screen: select _share_ in Flow project and then _present_
 
 To present visualisation in AR/VR: 
 1. Download [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS
@@ -114,13 +114,41 @@ Project is: _complete_
 
 
 ## Screenshots
+Screenshot of Final Visualisation Step #1
+![alt text](
+
+Screenshot of Final Visualisation Step #2
+
+Screenshot of Final Visualisation Step #3 
+
+Screenshot of Final Visualisation Step #4
+
+Screenshot of Final Visualisation Step #5
+
+Screenshot of Final Visualisation Step #6
+
+Screenshot of Final Visualisation Step #7 
+
+Screenshot of Final Visualisation Step #8
+
+Screenshot of Final Visualisation Step #9
+
+Screenshot of Final Visualisation Step #10 
+
+Screenshot of Final Visualisation Step #11 
+
+Screenshot of Final Visualisation Step #12
+
+Screenshot of Final Visualisation Step #13
+
+Screenshot of Coded Animation from Code Pen
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
 
 
 
 
 
-## Acknowledgements
+## Sources 
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
