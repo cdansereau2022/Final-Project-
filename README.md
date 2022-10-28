@@ -21,8 +21,56 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Key Concepts 
-My project has engaged with the following key concepts 
+My project has engaged with the following key concepts:
 
+Week 01:
+- Code Literacy 
+- Data Literacy 
+
+Week 02: 
+- Code 
+- Data 
+- Record, Storing, Encoding, Decoding
+- Programming language
+- Object-oriented programming
+- High-level, low-level language
+- Code's associated practices (
+
+Week 03: 
+- Software 
+- Open-source Software 
+
+Week 04:
+- Graphical User Interface 
+
+Week 06:
+- Data point
+- Types of data
+- Qualitative and quantitative data
+- Data structures (Table, Graph)
+- Type of values (in programming concepts as data types)
+
+Week 07:
+- Data (sample) distribution
+- Statistical transformation
+- Averages (median, mean, mode, etc.)
+- Time series
+
+Week 08:
+- Data visualisation and data reporting
+- Mapping data
+- Geometric mapping (line, bar, density, area, histograms, point, box plot, etc.)
+
+Week 09:
+- Open data
+
+Other related concepts include:
+- Variables 
+- Values 
+- Data Types 
+- HTML 
+- Markup Language 
+- CSS
 
 ## Technologies Used
 - [Flow Immersive](https://flowimmersive.com/) 
