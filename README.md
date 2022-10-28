@@ -35,8 +35,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Start%20Page.png)
 
 
 ## Setup
