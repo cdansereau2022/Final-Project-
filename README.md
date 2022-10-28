@@ -115,42 +115,49 @@ Project is: _complete_
 
 ## Screenshots
 Screenshot of Final Visualisation Step #1
-![alt text](
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%201.png)
 
 Screenshot of Final Visualisation Step #2
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%202.png)
 
 Screenshot of Final Visualisation Step #3 
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%203.png)
 
 Screenshot of Final Visualisation Step #4
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%204.png)
 
 Screenshot of Final Visualisation Step #5
-
-Screenshot of Final Visualisation Step #6
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%205.png)
 
 Screenshot of Final Visualisation Step #7 
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%207.png)
 
 Screenshot of Final Visualisation Step #8
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%208.png)
 
 Screenshot of Final Visualisation Step #9
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%209.png)
 
 Screenshot of Final Visualisation Step #10 
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%2010.png)
 
 Screenshot of Final Visualisation Step #11 
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%2011.png)
 
 Screenshot of Final Visualisation Step #12
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%2012.png)
 
 Screenshot of Final Visualisation Step #13
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Step%2013.png)
 
 Screenshot of Coded Animation from Code Pen
 ![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
 
 
 
-
-
 ## Sources 
-Give credit here.
-- This project was inspired by...
+Data Sourced From:
+- 
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
 
