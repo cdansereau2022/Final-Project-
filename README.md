@@ -5,6 +5,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Key Concepts](#key-concepts)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
@@ -18,6 +19,9 @@
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Key Concepts 
+My project has engaged with the following key concepts 
 
 
 ## Technologies Used
