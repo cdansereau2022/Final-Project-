@@ -9,6 +9,7 @@
 * [Setup and Usage](#setup-and-usage)
 * [Project Status](#project-status)
 * [Screenshots](#screenshots)
+* [Sources](#sources)
 * [Acknowledgements](#acknowledgements)
 
 
