@@ -35,7 +35,7 @@ List the ready features here:
 
 
 ## Screenshots
-![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/Viz%20Start%20Page.png)
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
 
 
 ## Setup
