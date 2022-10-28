@@ -15,11 +15,11 @@
 ## Key Concepts 
 My project has engaged with the following key concepts:
 
-Week 01:
+**Week 01:**
 - Code Literacy 
 - Data Literacy 
 
-Week 02: 
+**Week 02:** 
 - Code 
 - Data 
 - Record, Storing, Encoding, Decoding
@@ -28,35 +28,35 @@ Week 02:
 - High-level, low-level language
 - Code's associated practices (Library's of Code etc.)
 
-Week 03: 
+**Week 03:** 
 - Software 
 - Open-source Software 
 
-Week 04:
+**Week 04:**
 - Graphical User Interface 
 
-Week 06:
+**Week 06:**
 - Data point
 - Types of data
 - Qualitative and quantitative data
 - Data structures (Table, Graph)
 - Type of values (in programming concepts as data types)
 
-Week 07:
+**Week 07:**
 - Data (sample) distribution
 - Statistical transformation
 - Averages (median, mean, mode, etc.)
 - Time series
 
-Week 08:
+**Week 08:**
 - Data visualisation and data reporting
 - Mapping data
 - Geometric mapping (line, bar, density, area, histograms, point, box plot, etc.)
 
-Week 09:
+**Week 09:**
 - Open data
 
-Other related concepts include:
+**Other related concepts include:**
 - Variables 
 - Values 
 - Data Types 
@@ -80,7 +80,7 @@ Other related concepts include:
 
 ## Setup and Usage
 
-Data Visualisation 
+**Data Visualisation** 
 1. Create an account at [Flow Immersive](https://flowimmersive.com/) 
 2. Download datasets found [_here_](https://drive.google.com/drive/folders/1pxbeBI75I_uA3wXf12DL_trpRCTVRHA2?usp=sharing). 
 3. Replicate steps shown [_here_](https://app.flow.gl/flow/9htu02r).
@@ -94,7 +94,7 @@ To present visualisation in AR/VR:
 
 ![Alt Text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/AR%20View%20Button.png)
 
-Coded Background 
+**Coded Background** 
 1. Create an account at [Code Pen](https://codepen.io/)
 2. Create a new [Pen](https://codepen.io/pen/)
 3. Input [HTML](https://github.com/cdansereau2022/Final-Project-/blob/main/Code/index.haml) 
