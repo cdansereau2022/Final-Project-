@@ -46,6 +46,12 @@ Proceed to describe how to install / setup one's local environment / get started
 
 
 ## Usage
+
+To run data visualisation 
+
+To run code 
+
+
 How does one go about using it?
 Provide various use cases and code examples here.
 
