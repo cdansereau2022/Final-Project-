@@ -71,13 +71,6 @@ My project has engaged with the following key concepts:
 - HTML - High-level markup language
 - CSS (Sass) - High-level markup language
 
-
-## Features
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
 ## Setup and Usage
 
 **Data Visualisation** 
