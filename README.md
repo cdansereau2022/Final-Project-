@@ -34,7 +34,7 @@ Week 02:
 - Programming language
 - Object-oriented programming
 - High-level, low-level language
-- Code's associated practices (
+- Code's associated practices (Library's of Code etc.)
 
 Week 03: 
 - Software 
