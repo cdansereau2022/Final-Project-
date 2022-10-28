@@ -8,10 +8,8 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Setup and Usage](#setup-and-usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -59,19 +57,8 @@ Coded Background
 1. Create an account at [Code Pen](https://codepen.io/)
 2. Create a new [Pen](https://codepen.io/pen/)
 3. Input [HTML](https://github.com/cdansereau2022/Final-Project-/blob/main/Code/index.haml) 
-4. Input [Sass](
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+4. Input [Sass](https://github.com/cdansereau2022/Final-Project-/blob/main/Code/style.sass)
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-
-
-
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 
 ## Project Status
