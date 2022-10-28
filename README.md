@@ -65,11 +65,11 @@ Other related concepts include:
 - CSS
 
 ## Technologies Used
-- [Flow Immersive](https://flowimmersive.com/) 
-- [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS
-- [Code Pen](https://codepen.io/)
-- HTML 
-- CSS (Sass) 
+- [Flow Immersive](https://flowimmersive.com/) - Data visualisation software
+- [WebXR Viewer](https://apps.apple.com/us/app/webxr-viewer/id1295998056) on iOS - Mobile AR viewer
+- [Code Pen](https://codepen.io/) - Open-source software
+- HTML - High-level markup language
+- CSS (Sass) - High-level markup language
 
 
 ## Features
