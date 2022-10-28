@@ -8,9 +8,9 @@
 * [Key Concepts](#key-concepts)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup and Usage](#setup-and-usage)
 * [Project Status](#project-status)
+* [Screenshots](#screenshots)
 
 
 ## General Information
@@ -87,10 +87,6 @@ List the ready features here:
 - Awesome feature 3
 
 
-## Screenshots
-![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
-
-
 ## Setup and Usage
 
 Data Visualisation 
@@ -115,6 +111,12 @@ Coded Background
 
 ## Project Status
 Project is: _complete_ 
+
+
+## Screenshots
+![alt text](https://github.com/cdansereau2022/Final-Project-/blob/main/Images/CodePen%20Screenshot.png)
+
+
 
 
 
