@@ -58,11 +58,8 @@ To present visualisation in AR/VR:
 Coded Background 
 1. Create an account at [Code Pen](https://codepen.io/)
 2. Create a new [Pen](https://codepen.io/pen/)
-3. Input HTML 
-
-`#stars 
-#stars2
-#stars3`
+3. Input [HTML](https://github.com/cdansereau2022/Final-Project-/blob/main/Code/index.haml) 
+4. Input [Sass](
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
