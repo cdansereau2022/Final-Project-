@@ -256,3 +256,4 @@ Qualitative  Data Sourced From:
 
 ## Acknowledgements
 - This project was inspired by the work of Flow Immersive
+- The coded background was informed by existing Code Pen 'Pens', as well as the official [Sass Processing Guide](https://sass-lang.com/guide)
