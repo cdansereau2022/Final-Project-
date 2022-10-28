@@ -156,8 +156,27 @@ Screenshot of Coded Animation from Code Pen
 
 
 ## Sources 
-Data Sourced From:
-- 
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+Quantitative Data Sourced From:
+
+- Gap Minder. (2021). _Life Expectancy at Birth (v12)_ [Data Set]. Retrieved from https://www.gapminder.org/data/documentation/gd004/
+
+- Lasso, F. (2017). _Countries of the World_ [Data Set]. Retrieved from https://www.kaggle.com/datasets/fernandol/countries-of-the-world
+
+- World Health Organization. (2019). _Life expectancy at birth (years)_ [Data Set]. Retrieved from https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)
+
+Qualitative  Data Sourced From: 
+
+- BBC News. (2019, April 4). _Rwanda genocide: 100 days of slaughter_. BBC News https://www.bbc.com/news/world-africa-26875506
+
+- Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD). (2019, January 30). _Influenza Historic Timeline_. CDC. https://www.cdc.gov/flu/pandemic-resources/pandemic-timeline-1930-and-beyond.htm
+
+- Desjardins, J. (2018, March 28). _These discoveries saved billions of lives_. World Economic Forum. https://www.weforum.org/agenda/2018/03/the-50-most-important-life-saving-breakthroughs-in-history
+
+- Roser, M., Ortiz-Ospina, E., & Ritchie, H. (2019, October). _Life Expectancy_. Our World in Dat. https://ourworldindata.org/life-expectancy
+
+- Wikipedia. (n.d.). _List of epidemics_. Wikipedia. https://en.wikipedia.org/wiki/List_of_epidemics
+
+- Wikipedia. (n.d.). _List of wars and anthropogenic disasters by death toll_. Wikipedia. https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll
+
 
